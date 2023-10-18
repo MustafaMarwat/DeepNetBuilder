@@ -12,15 +12,15 @@ Deep learning has revolutionized the field of artificial intelligence and image 
     - We implement a logistic regression model for binary classification and a basic neural network with one hidden layer.
     - Learn about forward and backward propagation, activation functions, and vectorized implementations.
     - Gain insights into the mechanics of gradient descent and backpropagation.
-    - Part 1 code: [deep-neural-networks-part1.ipynb](part1/deep-neural-networks-part1.ipynb)
-
+    - Part 1 code: Building DNN from Scratch
+      
 - **Part 2: Building Deep Neural Networks**
     - In Part 2, we take a deep dive into constructing deep neural networks.
     - We build two different models: a 2-layer neural network and an L-layer deep neural network.
     - Explore the architectures and methodologies for training deep networks.
     - Gain hands-on experience by training models on a "Cat vs. Non-Cat" dataset.
     - Understand the principles and best practices for optimizing deep neural networks.
-    - Part 2 code: [deep-neural-networks-part2.ipynb](part2/deep-neural-networks-part2.ipynb)
+    - Part 2 code: Cat Classification Via DNN
 
 ## Prerequisites
 
